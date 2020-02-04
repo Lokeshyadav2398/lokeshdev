@@ -118,4 +118,4 @@ def main():
 	play_offs(a)
 	
 if(__name__=="__main__"):
-	main(
+	main()
